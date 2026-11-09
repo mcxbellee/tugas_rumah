@@ -64,7 +64,7 @@ const proyek = [
     {
         judul: "Form Kontak",
         kategori: "HTML",
-        gambar: "img/foto-kontak.png",
+        gambar: "img/Foto-kontak.png",
         alt: "Tangkapan layar form kontak",
         deskripsi: "Form dengan label dan validasi bawaan browser."
     },
